@@ -1,2 +1,2 @@
 # Graduate-Admission-Logistic-Regression
-Logistic regression in R
+Predicting the Graduates Admission using Logistic regression in R
